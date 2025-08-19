@@ -4,7 +4,7 @@
 
 Accurate and automated identification of plant species is crucial for various applications, including biodiversity monitoring, agricultural management, and ecological research. This project addresses the challenge of classifying flower images into distinct species using deep learning techniques, aiming to develop a robust and highly accurate automated system. The goal is to demonstrate the effectiveness of Convolutional Neural Networks (CNNs) in visual recognition tasks, providing a foundation for real-world applications like mobile flower identification apps.
 
-This project demonstrates how to build and train a Convolutional Neural Network (CNN) to classify images of flowers. It utilizes the "Flowers Recognition (by Alexander)" dataset from Kaggle.
+This project demonstrates how to build and train a Convolutional Neural Network (CNN) to classify images of flowers. It utilizes the [Flowers Recognition (by Alexander)](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition) dataset from Kaggle.
 
 ## Project Structure
 
