@@ -9,7 +9,7 @@ This project demonstrates how to build and train a Convolutional Neural Network 
 ## Project Structure
 
 ```
-flower-cnn/
+Transfer-Learning-Flower-Classification/
 ├── data/                 # Contains the flower image dataset (daisy, dandelion, rose, sunflower, tulip)
 ├── src/
 │   ├── train.py          # Script for training the CNN model
@@ -23,8 +23,8 @@ flower-cnn/
 1.  **Clone the repository (or create the project structure manually):**
 
     ```bash
-    git clone <repository_url>
-    cd flower-cnn
+    git clone <https://github.com/Aaryyan777/Transfer-Learning-Flower-Classification>
+    cd Transfer-Learning-Flower-Classification
     ```
 
 2.  **Download the Dataset:**
