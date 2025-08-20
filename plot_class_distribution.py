@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import os
 
-data_dir = r"C:\Users\DELL\flower-cnn\data"
+data_dir = r"C:\Users\DELL\flower-cnn\data"  # Replace the current path location with the actual path on your computer where your file or folder is located.
 class_names = sorted(os.listdir(data_dir))
 
 class_counts = {}
