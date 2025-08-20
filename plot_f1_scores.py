@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# F1-Scores from your classification report
+# F1-Scores from my classification report
 f1_scores = {
     'daisy': 0.92,
     'dandelion': 0.94,
