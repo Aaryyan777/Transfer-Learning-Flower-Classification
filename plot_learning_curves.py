@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Data extracted from your training log
+# Data extracted from my training log
 # Stage 1 Data
 history_s1 = {
     'accuracy': [0.4527, 0.7370, 0.7791, 0.7975, 0.8208, 0.8462, 0.8553, 0.8678, 0.8750, 0.8792, 0.8971, 0.8968, 0.8961, 0.9137, 0.9111, 0.9159, 0.9215, 0.9276],
